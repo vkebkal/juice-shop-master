@@ -2,23 +2,14 @@
 
 ## Table of Contents
 
-* [Project Description](#project-description)
-* [Challenge Description](#challenge-description)
-* [Solution Approach](#solution-approach)  
+1. [Challenge Description](#challenge-description)
+2. [Solution Approach](#solution-approach)  
     * [1. Initial Reconnaissance & Problem Identification](#1-initial-reconnaissance--problem-identification)
     * [2. Intercepting Product Search with Burp Suite](#2-intercepting-product-search-with-burp-suite)
     * [3. SQL Injection to Reveal Hidden Products](#3-sql-injection-to-reveal-hidden-products)
     * [4. Adding the Hidden Product to Basket](#4-adding-the-hidden-product-to-basket)
-* [Challenge Solved!](#challenge-solved)
-* [Video Demonstration](#video-demonstration)  
-* [Disclaimer](#disclaimer)  
-
-
----
-
-## Project Description
-
-This repository contains solutions to hacking challenges performed on the OWASP Juice Shop, a deliberately insecure web application designed for security training. The purpose of this project is purely educational and aims to demonstrate common web security vulnerabilities and their exploitation methods.
+3. [Challenge Solved!](#challenge-solved)
+4. [Video Demonstration](#video-demonstration)
 
 ---
 
@@ -178,9 +169,3 @@ By successfully adding the hidden "Christmas Super-Surprise-Box (2014 Edition)" 
 
 A detailed walkthrough of this challenge, including discovery, exploitation, and explanation, is available in the Loom video:  
 **[[Loom Video Link](https://www.loom.com/share/aaaa1efa2e8a463da67f9ac91d34f56c?sid=880acfe8-d574-473a-b964-bec801b345ad)]** 
-
----
-
-## Disclaimer
-
-This repository and all contained material are for **educational purposes only**. No real persons or data were harmed or used. Do **not** apply these techniques outside of authorized, legal contexts.

@@ -2,18 +2,10 @@
 # Juice Shop Hacking Challenges – Change Bender’s Password
 
 ## Table of Contents
-1. [Project Description](#project-description)  
-2. [Challenge Description](#challenge-description)  
-3. [Solution Approach](#solution-approach)  
-4. [Security Implications](#security-implications)  
-5. [Video Demonstration](#video-demonstration)  
-6. [Disclaimer](#disclaimer)  
-
----
-
-## Project Description
-
-This repository contains solutions to hacking challenges performed on the OWASP Juice Shop, a deliberately insecure web application designed for security training. The purpose of this project is purely educational and aims to demonstrate common web security vulnerabilities and their exploitation methods.
+1. [Challenge Description](#challenge-description)  
+2. [Solution Approach](#solution-approach)  
+3. [Security Implications](#security-implications)  
+4. [Video Demonstration](#video-demonstration)  
 
 ---
 
@@ -143,9 +135,3 @@ This repository contains solutions to hacking challenges performed on the OWASP 
 
 A detailed walkthrough of this challenge, including discovery, exploitation, and explanation, is available in the Loom video:  
 **[[Loom Video Link](https://www.loom.com/share/05873b96974e4dec8c963592e425f099?sid=951b4bac-2a7d-47a0-ae79-38a7d90d8b23)]**
-
----
-
-## Disclaimer
-
-This repository and all contained material are for **educational purposes only**. No real persons or data were harmed or used. Do **not** apply these techniques outside of authorized, legal contexts.
